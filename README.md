@@ -4,6 +4,11 @@ go-progress用来控制程序的自启动start，及停止stop
 ## 安装
 go get github.com/loudbund/go-progress
 
+## 引入
+```golang
+import "github.com/loudbund/go-progress/progress_v1"
+```
+
 ## 关键代码
 ```golang
 // 参数1: 程序入口函数
